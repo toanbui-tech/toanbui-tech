@@ -2,7 +2,7 @@
 
 # 👋 Xin chào, mình là Bùi Minh Toàn
 
-### Full-Stack Product Engineer | Software Engineer | Ticketing domain | Banking domain
+### Full-Stack Engineer | Java Backend | Ticketing & Banking Domains
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/buiminhtoae)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-toanbui--tech-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/toanbui-tech)
